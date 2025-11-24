@@ -225,6 +225,8 @@ section {
     font-size: 1.1rem;
     margin-bottom: 1.5rem;
     color: #555;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .img-col {
@@ -351,6 +353,8 @@ section {
 
 #resistencia p {
     color: rgba(245, 245, 220, 0.8);
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .gallery {
